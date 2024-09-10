@@ -1,0 +1,29 @@
+{
+  "name": "api-data-faker",
+  "version": "1.0.0",
+  "description": "Sample Data Faker",
+  "main": "main.js",
+  "scripts": {
+    "test": "node main.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/smknkejobong/data-scientist.git"
+  },
+  "keywords": [
+    "data-analyst",
+    "data-faker",
+    "data-science"
+  ],
+  "author": "itnsapurbalingga",
+  "license": "GPL-3.0",
+  "dependencies": {
+    "@faker-js/faker": "^9.0.0",
+    "express": "^4.19.2"
+  },
+  "bugs": {
+    "url": "https://github.com/smknkejobong/data-scientist/issues"
+  },
+  "homepage": "https://github.com/smknkejobong/data-scientist#readme"
+}
+
