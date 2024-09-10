@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/smknkejobong/data-scientist.git"
+    "url": "git+https://github.com/smkn1kejobong/data-scientist.git"
   },
   "keywords": [
     "data-analyst",
@@ -22,8 +22,8 @@
     "express": "^4.19.2"
   },
   "bugs": {
-    "url": "https://github.com/smknkejobong/data-scientist/issues"
+    "url": "https://github.com/smkn1kejobong/data-scientist/issues"
   },
-  "homepage": "https://github.com/smknkejobong/data-scientist#readme"
+  "homepage": "https://github.com/smkn1kejobong/data-scientist#readme"
 }
 
