@@ -9,7 +9,7 @@ Python3
 ```
 
 ```bash
-git clone https://github.com/smknkejobong/data-scientist
+git clone https://github.com/smknkejobong/data-science
 cd api-data-faker
 npm install
 npm run test
