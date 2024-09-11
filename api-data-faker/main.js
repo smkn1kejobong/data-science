@@ -1,6 +1,8 @@
+import compression from 'compression';
 import express from 'express';
 import { fakerID_ID as faker} from '@faker-js/faker';
 const app = express();
+app.use(compression())
 const port = 3000;
 
 const salesData = []

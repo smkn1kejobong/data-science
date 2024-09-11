@@ -17,9 +17,10 @@
     "data-science"
   ],
   "author": "itnsapurbalingga",
-  "license": "GPL-3.0",
+  "license": "MIT",
   "dependencies": {
     "@faker-js/faker": "^9.0.0",
+    "compression": "^1.7.4",
     "express": "^4.19.2"
   },
   "bugs": {
@@ -27,4 +28,3 @@
   },
   "homepage": "https://github.com/smkn1kejobong/data-science#readme"
 }
-
