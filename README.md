@@ -8,6 +8,8 @@ NodeJS v18+
 Python3
 ```
 
+Backend
+
 ```bash
 git clone https://github.com/smknkejobong/data-science
 cd api-data-faker
@@ -20,6 +22,7 @@ Lets open your browser and type
 http://localhost:3000/api/sales
 ```
 Did you are found data?
+
 nothing?
 
 Lets generate data with this sample uri
@@ -27,5 +30,14 @@ Lets generate data with this sample uri
 http://localhost:3000/api/sales/generate/100
 ```
 
+Python Code
+
+```bash
+python -m pip install pandas numpy matplotlib
+```
+
 What next step?
-Explore more on your brain xD
+
+Install Extension Jupyter on Shell Cloud Editor
+
+Run .ipynb file on analyst folder
